@@ -4,7 +4,7 @@ Printed Tue Aug 07 11:35:48 2018,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Compound 1:  PFBA,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-,Name,Sample Text,Type,Std. Conc,RT,Area,IS Area,IS RT,Response,Detection Flags,Conc.,%Dev,%Rec,S/N
+,Name,Sample Text,Type,Standard Concentration,RT,Area,IS Area,IS RT,Response,Detection Flags,Conc.,%Dev,%Rec,S/N
 1,JR_080218_06,20,Standard,20,6.07,31.679,703.015,,0.045,MM,20.7,3.6,103.6,51.004
 2,JR_080218_07,50,Standard,50,,,1139.25,,,,,,,
 3,JR_080218_08,100,Standard,100,6,188.669,1291.905,,0.146,bb,85.9,-14.1,85.9,339.75
@@ -30,7 +30,7 @@ Compound 1:  PFBA,,,,,,,,,,,,,,
 23,JR_080218_80,50,Standard,50,5.92,386.395,4677.352,,0.083,bb,45,-10.1,89.9,137.345
 24,JR_080218_81,100,Standard,100,5.9,716.907,3814.458,,0.188,MM,112.9,12.9,112.9,265.984
 ,,,,,,,,,,,,,,
-Compound 2:  PFPeA,,,,,,,,,,,,,,
+Compound 2:  PFPeA(Perfluoro-n-pentanoic acid),,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,Name,Sample Text,Type,Std. Conc,RT,Area,IS Area,,Response,Detection Flags,Conc.,%Dev,%Rec,S/N
 1,JR_080218_06,20,Standard,20,7.71,128.449,15711.499,,0.008,bb,23.3,16.3,116.3,86.853
@@ -60,7 +60,7 @@ Compound 2:  PFPeA,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 Compound 3:  PFHxA,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
-,Name,Sample Text,Type,Std. Conc,RT,Area,IS Area,,Response,Detection Flags,Conc.,%Dev,%Rec,S/N
+,Name,Sample Text,Type,Std. Conc,RT,Area,IS Area,,Response,Detection Flags,Conc.,%Dev,Percent Recovery,S/N
 1,JR_080218_06,20,Standard,20,9.3,277.125,3268.387,,0.085,bbX,35,75,175,13.786
 2,JR_080218_07,50,Standard,50,,,4401.509,,,MM-I,,,,
 3,JR_080218_08,100,Standard,100,9.34,895.454,4152.183,,0.216,bb,106.3,6.3,106.3,87.97
